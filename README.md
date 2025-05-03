@@ -42,3 +42,7 @@ Open ```notebooks/main.ipynb``` in Jupyter or upload to Google Colab.
 ## API Notes
 - `JokerC` requires a free API key from [api-ninjas.com](https://api-ninjas.com/api/jokes).
 Add it in the main.py or notebook where marked.
+
+
+## License
+MIT License. Have fun joking around! 🎉
