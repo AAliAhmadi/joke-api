@@ -1,4 +1,4 @@
-# joke-api
+# joke-api 🤡
 This is a simple Python project that fetches random jokes from different APIs using a clean object-oriented design.
 
 ## Structure
