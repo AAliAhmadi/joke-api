@@ -4,7 +4,7 @@ This is a simple Python project that fetches random jokes from different APIs us
 ## Structure
 joke_project/
 
-`
+```
 ├── jokers/
 │ ├── base.py # Abstract Joker class
 │ ├── joker_a.py # Uses jokeapi.dev
@@ -13,7 +13,7 @@ joke_project/
 ├── main.py # CLI entry point
 └── notebooks/
 └── main.ipynb # Interactive demo (optional)
-`
+```
 
 
 
